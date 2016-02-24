@@ -17,3 +17,4 @@ github_username:  dtrenz
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
