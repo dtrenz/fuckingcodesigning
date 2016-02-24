@@ -10,7 +10,8 @@ compiles Markdown in to a static HTML website, so contributing content to this w
 as simple as adding a Markdown file.
 
 ### Creating a new post
-To add a new post, simply create a new Markdown file that matches the following naming convention:
+To add a new post, simply create a new Markdown file in the `_posts/` directory that matches
+the following naming convention:
 
 `YYYY-MM-DD-short-title-of-your-post.md`
 
